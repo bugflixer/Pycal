@@ -1,0 +1,11 @@
+#!usr/bin/bash
+
+
+pkg update -y && pkg upgrade -y 
+pkg install python -y && pkg install python2 -y
+pkg install figlet -y
+pkg install ruby -y 
+gem install lolcat 
+ 
+python  $HOME/Pycal/pycal.py
+
