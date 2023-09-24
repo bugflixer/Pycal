@@ -1,7 +1,5 @@
-# Pycal
-\nBasic python Calculator \n
-it can do Subtraction, addition, division, multiplication\n
-just follow given cmd 👇👇\n
-open Pycal folder than type after open your data  👇👇\n
-bash start\n
-and enjoy😊😊\n
+-  This is a basic calculator made in Python
+-  How to use 👇👇
+-  cd Pycal
+-  bash start
+-  👈And enjoY👉
